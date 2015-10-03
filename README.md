@@ -2,6 +2,8 @@
 Android AppRestrictionEnforcer Sample
 ===================================
 
+[![Join the chat at https://gitter.im/t9nf/android-AppRestrictionEnforcer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/t9nf/android-AppRestrictionEnforcer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This sample demonstrates how to set restrictions to other apps as a profile owner.
 Use AppRestrictionSchema sample as a app with available restrictions.
 
